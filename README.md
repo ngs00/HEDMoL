@@ -10,4 +10,4 @@ Various representation learning methods for molecular structures have been devis
 You can train and evaluate HEDMoL by executing ``train_eval.py``.
 
 # Notice
-- Please check Appendix 2 of Supplementary Material for the hyperparameter settings.
+- Please check Table 3 in the manuscript for the hyperparameter settings.
